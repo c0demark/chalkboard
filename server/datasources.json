@@ -10,7 +10,7 @@
   "mysqlDs": {
     "host": "localhost",
     "port": 3306,
-    "database": "loopback-example-relations",
+    "database": "chalkboard",
     "username": "root",
     "password": "root",
     "name": "mysqlDs",
@@ -19,8 +19,8 @@
   "mongoDs": {
     "host": "localhost",
     "port": 27017,
-    "url": "mongodb://localhost:27017/loopback-example-relations",
-    "database": "loopback-example-relations",
+    "url": "mongodb://localhost:27017/chalkboard",
+    "database": "chalkboard",
     "password": "root",
     "name": "mongoDs",
     "user": "root",
